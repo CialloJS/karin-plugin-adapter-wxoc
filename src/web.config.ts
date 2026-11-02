@@ -22,9 +22,9 @@ export default defineConfig({
     id: 'karin-plugin-adapter-wxoc',
     name: '微信Claw适配器',
     author: {
-      name: 'dmmdekkd',
-      home: 'https://github.com/dmmdekkd/karin-plugin-adapter-wxoc',
-      avatar: 'https://github.com/dmmdekkd.png',
+      name: 'CialloJS',
+      home: 'https://github.com/CialloJS/karin-plugin-adapter-wxoc',
+      avatar: 'https://github.com/CialloJS.png',
     },
     icon: {
       name: 'forum',
